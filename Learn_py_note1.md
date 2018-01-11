@@ -240,3 +240,4 @@ inventory['backpack'].sort()
 inventory['backpack'].remove('dagger')
 inventory['gold'] = 550
 ```
+## 3. Tupple with ```()```, not mutable (you cannot change individual values)
